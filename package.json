@@ -1,6 +1,6 @@
 {
   "name": "ewancoder-angular-materialize",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "description": "Angular materialize.",
   "license": "MIT",
   "main": "index.js",
@@ -21,7 +21,8 @@
   "dependencies": {
     "@angular/core": "^2.4.4",
     "rxjs": "^5.0.3",
-    "ewancoder-angular-logger": "^0.1.0-alpha.2"
+    "ewancoder-angular-logger": "^0.1.0-alpha.2",
+    "angular2-materialize": "^6.6.0"
   },
   "devDependencies": {
     "typescript": "^2.1.5"

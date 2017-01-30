@@ -15,6 +15,7 @@
   },
   "files": [
     "src/materialize.module.ts",
+    "src/navbar.component.ts",
     "src/notify.service.ts"
   ]
 }
