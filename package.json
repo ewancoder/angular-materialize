@@ -1,6 +1,6 @@
 {
-  "name": "ewancoder-angular-materialize",
-  "version": "0.1.0-alpha.6",
+  "name": "@ewancoder/angular-materialize",
+  "version": "0.7.0",
   "description": "Angular materialize.",
   "license": "MIT",
   "main": "index.js",
@@ -12,21 +12,25 @@
     "type": "git",
     "url": "git+https://github.com/ewancoder/angular-materialize"
   },
-  "keywords": ["Angular", "Materialize"],
+  "keywords": [
+    "Angular",
+    "Materialize"
+  ],
   "author": "ewancoder@gmail.com",
   "bugs": {
     "url": "https://github.com/ewancoder/angular-materialize"
   },
   "homepage": "https://github.com/ewancoder/angular-materialize#readme",
   "dependencies": {
-    "@angular/common": "^2.4.6",
-    "@angular/core": "^2.4.6",
-    "rxjs": "^5.0.3",
-    "ewancoder-angular-animation": "^0.1.0-alpha.1",
-    "ewancoder-angular-logger": "^0.1.0-alpha.2",
-    "angular2-materialize": "^6.6.0"
+    "@angular/common": "~4.2.3",
+    "@angular/core": "~4.2.3",
+    "rxjs": "~5.4.1",
+    "@ewancoder/angular-animation": "~0.7.0",
+    "@ewancoder/angular-logger": "~0.7.0",
+    "angular2-materialize": "~15.0.4",
+    "materialize-css": "~0.98.2"
   },
   "devDependencies": {
-    "typescript": "^2.1.5"
+    "typescript": "~2.3.4"
   }
 }

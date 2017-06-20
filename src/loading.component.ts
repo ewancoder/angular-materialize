@@ -1,5 +1,5 @@
 import { ChangeDetectionStrategy, Component, Input } from '@angular/core';
-import { animations } from 'ewancoder-angular-animation';
+import { animations } from '@ewancoder/angular-animation';
 
 @Component({
     selector: 'loading',
